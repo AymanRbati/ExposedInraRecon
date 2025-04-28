@@ -1,6 +1,6 @@
 # ExposedInfraRecon
 
-**ExposedInfraRecon** is a lightweight but powerful Python 3 tool designed for fast reconnaissance of internet-exposed infrastructure.
+**ExposedInfraRecon** is a lightweight Python 3 tool designed for fast reconnaissance of internet-exposed infrastructure.
 
 It automates:
 - Collecting subdomains from crt.sh
@@ -8,7 +8,6 @@ It automates:
 - Fast full-port scanning of resolved IPs with parallel Nmap
 - Organizing results into clean output files for triage
 
-Built for Red Teamers, Bug Bounty Hunters, Pentesters, and Offensive Security researchers.
 
 ---
 
